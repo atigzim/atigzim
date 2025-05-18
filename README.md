@@ -9,7 +9,7 @@ I'm **abdelali**, a passionate developer and a student at **1337**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-📧 Gmail: your.email@example.com
+📧 Gmail: alitigzim1@gmail.com
 
 ---
 
