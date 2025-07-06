@@ -1,9 +1,6 @@
 # 💫 About Me:
-I'm **abdelali**, a passionate developer and a student at **1337**.
-
-🚀 Currently diving deep into the 1337 curriculum, exploring low-level programming, system development, and problem-solving.
-
-💡 Always eager to learn, build, and challenge myself!
+I'm a software engineering student currently studying at 42, focusing on low-level system programming, C, and Unix.
+I'm building projects like minishell and philosophers, and I love exploring memory management, process handling, and efficient code
 
 ---
 
